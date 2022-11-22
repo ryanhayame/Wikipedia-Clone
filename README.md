@@ -13,3 +13,6 @@
 
 #### Create new page
 ![](/screenshots/create.png)
+
+#### Search
+![](/screenshots/search.png)
