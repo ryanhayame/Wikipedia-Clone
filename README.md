@@ -1,5 +1,10 @@
 # Wikipedia-Clone
-## A web application similar to Wikipedia created with HTML, CSS, Python, and Django
+## A web application similar to Wikipedia
+
+## Features:
+- Home page with links to all of the Wikipedia entries
+- Sidebar to navigate web application
+- Ability to create new pages and edit existing pages
 
 ## Screenshots
 #### Home page
@@ -16,3 +21,6 @@
 
 #### Search
 ![](/screenshots/search.png)
+
+## Tech Stack:
+HTML, CSS, Python, and Django
